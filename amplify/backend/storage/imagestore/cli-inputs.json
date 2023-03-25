@@ -1,0 +1,12 @@
+{
+  "resourceName": "imagestore",
+  "policyUUID": "c5ffdb22",
+  "bucketName": "amplifyimagebucket",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "READ"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
